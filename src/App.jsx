@@ -15,7 +15,7 @@ const imageComponent = <div>
   I have also co-authored a paper for developing a smart agent for Project Development. This paper will be published soon in Vancouver, Canada.
   I have a company experience of 5 years before this which involved application development, web development framework, database development, cloud computing etc. </p>
   <p>
-    <button> <a href="https://github.com/PoojaPower/cs648.02Assignment1" target="_blank">VIEW MY GITHUB</a></button>
+    <button> <a href="https://github.com/poojapower/cs648.02Assignment1" target="_blank">Go to GITHUB</a></button>
   </p>
 </div>;
 ReactDOM.render(imageComponent, imageContent);

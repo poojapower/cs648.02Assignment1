@@ -37,8 +37,8 @@ const imageComponent = React.createElement(
       " ",
       React.createElement(
         "a",
-        { href: "https://github.com/PoojaPower/cs648.02Assignment1", target: "_blank" },
-        "VIEW MY GITHUB"
+        { href: "https://github.com/poojapower/cs648.02Assignment1", target: "_blank" },
+        "View GITHUB"
       )
     )
   )
